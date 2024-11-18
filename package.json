@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-sender",
+  "version": "1.0.0",
+  "description": "Projeto em Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroh-dev255/Whatsapp-Sender.git"
+  },
+  "author": "pedroh-dev255",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pedroh-dev255/Whatsapp-Sender/issues"
+  },
+  "homepage": "https://github.com/pedroh-dev255/Whatsapp-Sender#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7"
+  }
+}

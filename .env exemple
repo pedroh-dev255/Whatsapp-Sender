@@ -1,0 +1,8 @@
+#Server
+PORT=3000
+
+#MYSQL
+DB_HOST=
+DB_USER=
+DB_PASS=
+DB_NAME=
